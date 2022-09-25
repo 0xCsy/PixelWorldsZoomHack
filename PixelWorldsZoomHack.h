@@ -1,6 +1,7 @@
 //Version 1.7.21
 
-static zoomHackLevel = 1;
+//Use this inside a slider
+static int zoomHackLevel = 1;
 
 // UnityEngine.Screen
 int (*old_Screen_get_height)();
