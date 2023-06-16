@@ -1,4 +1,4 @@
-//Version 1.7.21
+//Version 1.7.60
 
 //Use this inside a slider
 static int zoomHackLevel = 1;
